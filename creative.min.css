@@ -148,7 +148,7 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url(images/laptop.JPG);
+  background-image: url(images/laptop.jpg);
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -190,7 +190,7 @@ header.masthead p {
 header.masthead2 {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url(images/genius.JPG);
+  background-image: url(images/genius.jpg);
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
